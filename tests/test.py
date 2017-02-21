@@ -8,7 +8,7 @@ Sample test script.
 # use print function so this script works in Python 2 or 3:
 from __future__ import print_function
 
-x = 1.
+x = 3.
 y = 1.
 z = x + y
 expected_sum = 2.
