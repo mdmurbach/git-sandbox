@@ -2,6 +2,7 @@
 
 """
 Sample test script.
+
 """
 
 # use print function so this script works in Python 2 or 3:
